@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nithien-SA/bank_app_react.git/static/css/main.7400ac90.css",
+    "main.js": "/Nithien-SA/bank_app_react.git/static/js/main.e4106a0b.js",
+    "static/js/488.3a369845.chunk.js": "/Nithien-SA/bank_app_react.git/static/js/488.3a369845.chunk.js",
+    "index.html": "/Nithien-SA/bank_app_react.git/index.html",
+    "main.7400ac90.css.map": "/Nithien-SA/bank_app_react.git/static/css/main.7400ac90.css.map",
+    "main.e4106a0b.js.map": "/Nithien-SA/bank_app_react.git/static/js/main.e4106a0b.js.map",
+    "488.3a369845.chunk.js.map": "/Nithien-SA/bank_app_react.git/static/js/488.3a369845.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7400ac90.css",
+    "static/js/main.e4106a0b.js"
+  ]
+}
